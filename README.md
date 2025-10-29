@@ -7,4 +7,4 @@ I would stay away from things like meterpreter unless your going to perform some
 Then again theres always amsii bypass. I've found the VirtualProtect a lot more accepted then VirutalAlloc or VIrutalAllocEx, etc.
 From memory it would sometimes still alert but allow the injection to take place.
 
- - Liquidsky @ Specialized Security Services, Inc. (S3)
+ - Liquidsky
